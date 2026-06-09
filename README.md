@@ -15,10 +15,8 @@
 
 ---
 
-👨‍💻 About Me
+<h1>👨‍💻 About Me</h1>
  
-
-🎓 B.Tech Computer Science @ SRM Institute of Science and Technology, KTR — CGPA: 9.46 / 10
 
 <p>
 🎓 <strong>B.Tech Computer Science</strong> @ SRM Institute of Science and Technology, KTR — <strong>CGPA: 9.46 / 10</strong><br/><br/>
@@ -31,7 +29,7 @@
 💬 Ask me about <strong>Blockchain, Web3, React, Node.js, Python, ML</strong><br/><br/>
 ⚡ Fun fact: <em>I turn coffee into smart contracts ⛓☕</em>
 </p>
-```
+
 
 ---
 
