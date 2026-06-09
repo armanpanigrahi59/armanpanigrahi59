@@ -16,16 +16,21 @@
 ---
 
 👨‍💻 About Me
+ 
 
 🎓 B.Tech Computer Science @ SRM Institute of Science and Technology, KTR — CGPA: 9.46 / 10
-⛓ Blockchain Intern @ Samsung R&D Institute Bangalore · Samsung PRISM (Dec 2025 – May 2026)
-🌐 Full Stack Engineer — building scalable MERN apps with real-time WebSocket sync
-🤖 ML Practitioner — deployed credit risk models with 87% AUC-ROC on 30K+ records
-🔗 Smart Contract Architect — Solidity, Hardhat, Ethereum, Polygon
-🌱 GSSoC 2026 Open Source Contributor
-📍 Based in Hyderabad , India
-💬 Ask me about Blockchain, Web3, React, Node.js, Python, ML
-⚡ Fun fact: I turn coffee into smart contracts ⛓☕
+
+<p>
+🎓 <strong>B.Tech Computer Science</strong> @ SRM Institute of Science and Technology, KTR — <strong>CGPA: 9.46 / 10</strong><br/><br/>
+⛓ <strong>Blockchain Intern</strong> @ Samsung R&D Institute Bangalore · Samsung PRISM <em>(Dec 2025 – May 2026)</em><br/><br/>
+🌐 Full Stack Engineer — building scalable MERN apps with real-time WebSocket sync<br/><br/>
+🤖 ML Practitioner — deployed credit risk models with <strong>87% AUC-ROC</strong> on <strong>30K+ records</strong><br/><br/>
+🔗 Smart Contract Architect — Solidity · Hardhat · Ethereum · Polygon<br/><br/>
+🌱 <strong>GSSoC 2026</strong> Open Source Contributor<br/><br/>
+📍 Based in Hyderabad / Bangalore, India<br/><br/>
+💬 Ask me about <strong>Blockchain, Web3, React, Node.js, Python, ML</strong><br/><br/>
+⚡ Fun fact: <em>I turn coffee into smart contracts ⛓☕</em>
+</p>
 ```
 
 ---
