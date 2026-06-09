@@ -15,19 +15,17 @@
 
 ---
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
-```python
-arman = {
-    "name"      : "Arman Panigrahi",
-    "college"   : "SRM Institute of Science and Technology, KTR",
-    "cgpa"      : 9.46,
-    "role"      : ["Blockchain Dev", "Full Stack Engineer", "ML Practitioner"],
-    "internship": "Samsung R&D Institute Bangalore (Samsung PRISM)",
-    "currently" : "Building on-chain governance systems with Solidity & React",
-    "contact"   : "11309arman@gmail.com | +91-7009837161",
-    "fun_fact"  : "I turn coffee into smart contracts ⛓☕"
-}
+🎓 B.Tech Computer Science @ SRM Institute of Science and Technology, KTR — CGPA: 9.46 / 10
+⛓ Blockchain Intern @ Samsung R&D Institute Bangalore · Samsung PRISM (Dec 2025 – May 2026)
+🌐 Full Stack Engineer — building scalable MERN apps with real-time WebSocket sync
+🤖 ML Practitioner — deployed credit risk models with 87% AUC-ROC on 30K+ records
+🔗 Smart Contract Architect — Solidity, Hardhat, Ethereum, Polygon
+🌱 GSSoC 2026 Open Source Contributor
+📍 Based in Hyderabad , India
+💬 Ask me about Blockchain, Web3, React, Node.js, Python, ML
+⚡ Fun fact: I turn coffee into smart contracts ⛓☕
 ```
 
 ---
