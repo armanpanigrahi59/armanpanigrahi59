@@ -109,7 +109,7 @@
 
 <p align="center">
   <a href="https://github.com/armanpanigrahi59/Ecommerce-Analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=armanpanigrahi59&repo=credit-risk-scoring-engine&theme=tokyonight&border_color=7c3aed" />
+    <img src="https://github.com/armanpanigrahi59/Ecommerce-Analyzer" />
   </a>
   <a href="https://github.com/armanpanigrahi59/collaborative-task-manager">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=armanpanigrahi59&repo=collaborative-task-manager&theme=tokyonight&border_color=06b6d4" />
