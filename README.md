@@ -16,7 +16,7 @@
 ---
 
 <h2>👨‍💻 About Me</h2>
- 
+ 
 
 <p>
 🎓 <strong>B.Tech Computer Science</strong> @ SRM Institute of Science and Technology, KTR — <strong>CGPA: 9.46 / 10</strong><br/><br/>
@@ -136,7 +136,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=armanpanigrahi59&show_icons=true&theme=tokyonight&border_color=7c3aed&title_color=7c3aed&icon_color=06b6d4" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanpanigrahi59&show_icons=true&theme=tokyonight&border_color=7c3aed&title_color=7c3aed&icon_color=06b6d4&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanpanigrahi59&layout=compact&theme=tokyonight&border_color=7c3aed&title_color=7c3aed" height="180"/>
 </p>
 
 <p align="center">
