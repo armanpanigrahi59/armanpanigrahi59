@@ -136,7 +136,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=armanpanigrahi59&show_icons=true&theme=tokyonight&border_color=7c3aed&title_color=7c3aed&icon_color=06b6d4" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanpanigrahi59&layout=compact&theme=tokyonight&border_color=7c3aed&title_color=7c3aed" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanpanigrahi59&show_icons=true&theme=tokyonight&border_color=7c3aed&title_color=7c3aed&icon_color=06b6d4&count_private=true"/>
 </p>
 
 <p align="center">
