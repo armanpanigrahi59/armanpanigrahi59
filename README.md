@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&lines=Blockchain+Developer+%E2%9B%93+%40+Samsung+PRISM;Full+Stack+Engineer+%F0%9F%8C%90+%7C+MERN+Stack;Machine+Learning+Practitioner+%F0%9F%A4%96;Smart+Contract+Architect+%F0%9F%94%97;Open+Source+Contributor+%F0%9F%8C%B1+GSSoC+2026" alt="Roles" />
 <br/>
 <img src="https://komarev.com/ghpvc/?username=armanpanigrahi59&label=Profile+Views&color=7c3aed&style=flat-square" />
-<img src="https://img.shields.io/badge/CGPA-9.46%2F10-06b6d4?style=flat-square" />
+<img src="https://img.shields.io/badge/CGPA-9.67%2F10-06b6d4?style=flat-square" />
 <img src="https://img.shields.io/badge/SRM%20KTR-B.Tech%20CSE%20%2728-10b981?style=flat-square" />
 <img src="https://img.shields.io/badge/GSSoC-2026%20Contributor-f59e0b?style=flat-square" />
 <img src="https://img.shields.io/badge/Samsung%20PRISM-Intern-1428A0?style=flat-square&logo=samsung&logoColor=white" />
@@ -12,7 +12,7 @@
 👨‍💻 About Me
 
 <p>
-🎓 <strong>B.Tech Computer Science</strong> @ SRM Institute of Science and Technology, KTR — <strong>CGPA: 9.46 / 10</strong><br/><br/>
+🎓 <strong>B.Tech Computer Science</strong> @ SRM Institute of Science and Technology, KTR — <strong>CGPA: 9.67 / 10</strong><br/><br/>
 ⛓ <strong>Blockchain Intern</strong> @ Samsung R&D Institute Bangalore · Samsung PRISM <em>(Dec 2025 – May 2026)</em><br/><br/>
 🌐 <strong>Full Stack Engineer</strong> — building scalable MERN apps with real-time WebSocket sync<br/><br/>
 🤖 <strong>ML Practitioner</strong> — deployed credit risk models with <strong>87% AUC-ROC</strong> on <strong>30K+ records</strong><br/><br/>
